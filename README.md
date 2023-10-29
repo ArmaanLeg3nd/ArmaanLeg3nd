@@ -28,16 +28,8 @@ Markdown     20 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArmaanLeg3nd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArmaanLeg3nd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanLeg3nd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArmaanLeg3nd&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ArmaanLeg3nd&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaanbatra) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/armaanbatra) 
