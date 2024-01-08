@@ -2,7 +2,7 @@
 
 😎 I'm Armaan, a tech enthusiast who thrives on testing and pushing my limits to improve my skills. I find the challenge and thrill of constant growth to be incredibly rewarding, making every achievement all the more satisfying. 🚀
 
-💡 My journey has led me to dive into Unity and C#, where I've had the opportunities to  🕵️‍♂️
+💡 My journey has led me to dive into Unity and C#, where I've had the opportunities to work with my creativity to ideate and build innovative games 🕵️‍♂️
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
